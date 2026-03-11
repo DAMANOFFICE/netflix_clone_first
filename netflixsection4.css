@@ -1,0 +1,35 @@
+.sectionbox4{
+    display: flex;
+    flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+.fourbox{
+    text-transform: capitalize;
+    color: white;
+    background-color: rgb(27 27 27 / 90%);
+    border: solid 2px gray;
+    height:82px ;
+    width:1050px ;
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: xx-large;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.plus{
+    font-size: 60px;
+  
+}
+
+.ultra{
+    padding-left: 150px;
+    font-size: xx-large;
+}
+.four{
+    padding-top: 80px;
+}

@@ -1,0 +1,15 @@
+.englishicon:hover{
+    transform: scale(110%);
+}
+.signin:hover{
+    background-color: rgb(153, 0, 0);
+}
+.butten:hover{
+    background-color: rgb(153, 0, 0);
+}
+.fourbox:hover{
+    background-color: rgba(87, 85, 85, 0.9);
+}
+.box:hover{
+    transform: scale(110%);
+}

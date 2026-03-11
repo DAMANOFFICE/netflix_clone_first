@@ -1,0 +1,63 @@
+.netflixback{
+    height: 600px;
+    width: 100vw;
+    border: 1px solid;
+  background-image: url(https://user-images.githubusercontent.com/16425113/129554147-6ac7ba51-43e7-4c8e-ba77-e646a3ef6b12.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  object-fit: contain;
+  background-color: black;
+  height: inherit;
+  width: inherit;
+  filter: opacity(0.9);
+}
+.opic{
+  
+}
+.logon{
+  display: flex;
+    flex-direction: row;
+    gap: 400px;
+    justify-content: space-around;
+}
+.imgfilter{
+padding-top: 15px;
+height: 50px;
+width: 170px;
+}
+.englishicon{
+    display: flex;
+    cursor: pointer;
+    border: 1px gray solid;
+    border-radius: 10%;
+    background-color: rgba(18, 17, 17, 0.9);
+color: white;
+height:20px ;
+width: 104px;
+font-size: 10px;
+padding: 5px;
+align-self: center;
+align-items: center;
+justify-content: center;
+outline: 1px solid black;
+gap: 6px;
+}
+.signin{
+  cursor: pointer;
+    color: white;
+    background-color: red;
+    /* border:1px white solid; */
+    border-radius: 10%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height:32px ;
+width: 80px;
+font-size: 10px;
+padding: 10px;
+align-self: center;
+}
+.heads{
+    display: flex;
+    gap: 50px;
+}

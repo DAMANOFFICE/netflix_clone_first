@@ -1,0 +1,39 @@
+.fifth{
+   padding-top: 50px; 
+}
+.emaild2{
+    background-color:gray;
+    border: 1px black solid;
+    border-radius: 5%;
+    color: white;
+    padding: 10px;
+    height: 50px;
+    font-size: x-large;
+    width: 550px;
+}
+.fifthmid{
+    padding-top: 50px;
+    padding-left: 230px;
+    color: gainsboro;
+    transform: scale(115%);
+}
+.fifthmidgrid{
+    display: grid;
+    grid-template-columns: 200px 200px  200px 200px ;
+    grid-template-rows: 30px 30px 30px;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+.fifthlast{
+    padding-top: 80px;
+    padding-left: 160px;
+}
+.footerr{
+    color: white;
+    padding-left:160px ;
+    padding-top: 35px;
+    height: 200px;
+}
+.fifthboxex{
+    cursor: pointer;
+}

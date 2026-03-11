@@ -1,0 +1,21 @@
+.netflixfront1{
+    display: flex;
+    font-size: 80px;
+    color: white;
+    justify-content: center;
+  padding-top: 100px;
+}
+.netflixfront2{
+    display: flex;
+    color: white;
+    font-size: 26px;
+    justify-content: center;
+    padding-top: 30px;
+}
+.netflixfront3{
+    display: flex;
+    color: white;
+    font-size: 23px;
+    justify-content: center;
+    padding-top: 35px;
+}
